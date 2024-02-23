@@ -21,8 +21,6 @@ import { IoMdPerson } from "react-icons/io";
 import { Link } from 'react-router-dom'
 
 // react-redux
-import { useSelector, useDispatch } from 'react-redux'
-import { pageName } from '../../slice/breadcrumbslice.js'
 
 
 
